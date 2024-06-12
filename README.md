@@ -1,6 +1,6 @@
 # Japanese RAG
 
-> Japanese RAG is a small RAG (Retrieval-Augmented Generation) chatbot that is able to answer questions about the Japanese language. The chatbot is based on the [Weaviate](https://www.semi.technology/products/weaviate.html) knowledge graph and the [OpenAI](https://platform.openai.com/docs/api-reference/chat) API.
+> Japanese RAG is a small RAG (Retrieval-Augmented Generation) chatbot that is able to answer questions about the Japanese language. The chatbot is based on the [Weaviate](https://www.semi.technology/products/weaviate.html) knowledge graph, the [OpenAI](https://platform.openai.com/docs/api-reference/chat) API and [Streamlit](https://streamlit.io/).
 
 ![chat interface](./doc/chat.jpeg)
 
