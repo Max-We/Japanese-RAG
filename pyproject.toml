@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "japanese-rag"
+version = "0.1.0"
+description = ""
+authors = ["mw <maximilian.weichart@icloud.com>"]
+readme = "README.md"
+packages = [{include = "japanese_rag"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langchain = "^0.1.12"
+weaviate-client = "^4.5.3"
+streamlit = "^1.32.2"
+tiktoken = "^0.6.0"
+langchain-openai = "^0.0.8"
+openai = "^1.16.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
